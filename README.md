@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Brisa Gutiérrez 👋
 
-<!--
-**BrisaGutierr3z/BrisaGutierr3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering Student at UAI (Universidad Abierta Interamericana)
 
-Here are some ideas to get you started:
+## Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Java
+- Python
+- C
+- SQL
+- HTML
+- CSS
+- Git & GitHub
+- AWS (Basic)
+- Google Cloud
+- Power BI
+
+## Experience
+
+💻 Web Developer Intern at GOATek Inc.
+
+## Areas of Interest
+
+📊 Data Analytics
+
+☁️ Cloud Computing
+
+💻 Software Development
+
+🚀 Process Improvement
+
+## Currently
+
+📚 Studying Systems Engineering
+
+🌱 Expanding my knowledge in Software Development, Cloud Technologies, and Data Analytics
+
+## Contact
+
+📧 gutierrezbrisa110@gmail.com
